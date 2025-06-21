@@ -1,5 +1,13 @@
 # MSTP
 Multi-scale Temporal Prediction via Incremental Generation and Multi-agent Collaboration
+<div align="center">
+
+[![Project Page](https://img.shields.io/badge/Project-Page-green.svg)](https://github.com/jinlab-imvr/MSTP)
+[![GitHub](https://img.shields.io/github/stars/jinlab-imvr/MSTP?style=social)](https://github.com/jinlab-imvr/MSTP)
+
+**[🌐 Project Page]((https://github.com/jinlab-imvr/MSTP)) | [📄 Paper]((https://github.com/jinlab-imvr/MSTP)) **
+
+</div>
 
 ## Environment setup
 Tested with 2 * NVIDIA H200 Tensor Core GPUs
